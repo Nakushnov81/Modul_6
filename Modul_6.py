@@ -1,7 +1,6 @@
 import time
 from threading import Thread
 
-
 def get_thread(thread_time):
     time.sleep(1)
     print(thread_time)
